@@ -1,0 +1,6 @@
+{
+  "name": "Elite Bio-Research Agent",
+  "description": "Herramienta avanzada para investigadores: búsqueda y descarga de literatura académica con filtros de impacto y relevancia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
